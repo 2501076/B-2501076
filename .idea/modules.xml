@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-2test/1-2test.iml" filepath="$PROJECT_DIR$/1-2test/1-2test.iml" />
       <module fileurl="file://$PROJECT_DIR$/2501076.iml" filepath="$PROJECT_DIR$/2501076.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Report 1/Report 1.iml" filepath="$PROJECT_DIR$/week02/Report 1/Report 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Report 2/Report 2.iml" filepath="$PROJECT_DIR$/week02/Report 2/Report 2.iml" />
@@ -79,6 +80,10 @@
       <module fileurl="file://$PROJECT_DIR$/week07/report7-2-1/report7-2-1.iml" filepath="$PROJECT_DIR$/week07/report7-2-1/report7-2-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week07/report7-2-2/report7-2-2.iml" filepath="$PROJECT_DIR$/week07/report7-2-2/report7-2-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/week07/report7-3/report7-3.iml" filepath="$PROJECT_DIR$/week07/report7-3/report7-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-2test/test2/test2.iml" filepath="$PROJECT_DIR$/1-2test/test2/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-2test/test3/test3.iml" filepath="$PROJECT_DIR$/1-2test/test3/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-2test/test4/test4.iml" filepath="$PROJECT_DIR$/1-2test/test4/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-2test/test5/test5.iml" filepath="$PROJECT_DIR$/1-2test/test5/test5.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
       <module fileurl="file://$PROJECT_DIR$/week04/week04.iml" filepath="$PROJECT_DIR$/week04/week04.iml" />
