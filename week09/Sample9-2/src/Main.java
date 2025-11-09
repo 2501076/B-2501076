@@ -25,7 +25,6 @@ public class Main {
         for (int i=start; i<=last; i++) {
             sum += i;
         }
-
         System.out.printf("%d + %d + ... + %d = %,d\n",start,start+1,last,sum);
     }
 }

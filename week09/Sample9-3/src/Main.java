@@ -17,5 +17,6 @@ public class Main {
                 System.out.printf("팔굽혀펴기 : %2d회\n", i);
             } */
         }
+
     }
 }
