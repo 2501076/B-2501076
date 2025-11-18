@@ -52,7 +52,7 @@ public class Main {
             for (int j = 0; j < name.length - 1 - i; j++) {
                 if (total[j] > total[j + 1]) {
 
-                    String text = name[i]; //맞ㅇ,ㅁ?
+                    String text = name[i];
                     name[j] = name[j + 1];
                     name[j + 1] = text;
 
