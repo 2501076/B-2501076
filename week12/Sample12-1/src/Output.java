@@ -7,7 +7,7 @@ public class Output {
     }
 
     static void display(int first, int second) {
-        System.out.printf("%d + %d = \n",first,second);
+        System.out.printf("%d + %d = ",first,second);
     }
 
     static void display() {
