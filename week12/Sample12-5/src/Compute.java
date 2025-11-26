@@ -1,6 +1,6 @@
 public class Compute {
     public static void standard(String[][] students,  int[] height, float[][] weight) {
-        for (int i = 0; i < height.length; i++) {
+        for (int i = 0; i < students.length; i++) {
             if (students[i][1].equals("남")) {
                 weight[i][1] = (height[i] - 100) * 0.9f;
             } else {
@@ -11,7 +11,7 @@ public class Compute {
 
 
         public static void bmi (String[][]students,int[] height, float[][] weight){
-            for (int i = 0; i < height.length; i++) {
+            for (int i = 0; i < students.length; i++) {
                 weight[i][2] = ((weight[i][0] - weight[i][1]) / weight[i][1]) * 100;
             }
         }
